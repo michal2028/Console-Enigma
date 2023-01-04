@@ -22,7 +22,7 @@ namespace ConsoleApp1
                 "| |       ENIGMA        | |",
                 "| |     CREATED BY      | |",
                 "| |    MICHAL NOWAK     | |",
-                "| |   PATRYK MUSZKIET   | |",
+                "| |                     | |",
                 "| |_____________________| |",
                 "|                         |",
                 "|  |R1|    |R2|    |R3|   |",
